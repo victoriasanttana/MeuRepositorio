@@ -1,0 +1,20 @@
+.menu-vermelho {
+  color: rgb(255, 0, 212);
+  
+}
+
+.link-menu {
+  padding-left: 10px;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.103);
+
+}
+
+#primeiro-menu {
+  color: blue;
+}   
+
